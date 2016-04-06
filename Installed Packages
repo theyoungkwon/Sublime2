@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AndroidSnippets",
+		"BoundKeys",
+		"C++ Snippets",
+		"FindKeyConflicts",
+		"IPython Notebook",
+		"MIPS Syntax",
+		"Neon Color Scheme",
+		"Package Control",
+		"SFTP",
+		"sublime-closure-linter",
+		"SublimeCodeIntel",
+		"SublimeGDB",
+		"Text Pastry",
+		"TrailingSpaces",
+		"Unittest (python)",
+		"Verilog",
+		"VHDL"
+	]
+}
