@@ -13,5 +13,6 @@
 		"Vintage"
 	],
 	"trim_trailing_white_space_on_save": true,
-	"trailing_spaces_enabled" : false
+	"trailing_spaces_enabled" : false,
+	"trailing_spaces_include_empty_lines" : false
 }
